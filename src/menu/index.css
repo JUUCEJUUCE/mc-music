@@ -1,0 +1,9 @@
+.menu{
+    display:flex
+}
+.menu li{
+    flex:1;
+    line-height:40px;
+    font-size:15px;
+    text-align:center;
+}

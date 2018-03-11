@@ -1,0 +1,21 @@
+.list{
+    display:flex;
+    flex-wrap:wrap;
+}
+.list li{
+    flex:1;
+    width:100px;
+    height:100p
+}
+.list li img{
+    width:100px;
+    height:100px
+}
+.list li p{
+    overflow: hidden;
+    word-break: break-all;
+    word-wrap:nowrap;
+    padding: 6px 2px 0 6px;
+    line-height: 1.2;
+    font-size: 13px;
+}
